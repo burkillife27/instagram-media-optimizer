@@ -2,7 +2,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Built with AI](https://img.shields.io/badge/Built%20with-AI%20%2F%20Antigravity-8a3ab9.svg)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://github.com/)
+
+> 🤖 **Not:** Bu proje, yapay zeka (AI) destekli eşli programlama ile tasarlanmış ve optimize edilmiştir.
 
 Instagram'ın yükleme sırasında uyguladığı agresif ve kaliteyi bozan yeniden sıkıştırma algoritmasını bertaraf etmek amacıyla geliştirilmiş, modern kullanıcı arayüzüne sahip bağımsız bir medya optimizasyon uygulamasıdır.
 
