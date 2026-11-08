@@ -1,7 +1,7 @@
 # ✨ Instagram Media Optimizer (Ultra HD)
 
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-red.svg)](LICENSE)
 [![Built with AI](https://img.shields.io/badge/Built%20with-AI%20%2F%20Antigravity-8a3ab9.svg)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://github.com/)
 
@@ -81,4 +81,7 @@ Oluşan çalıştırılabilir dosya `dist/InstagramOptimizer.exe` altında hazı
 
 ## 📄 Lisans
 
-Bu proje [MIT Lisansı](LICENSE) kapsamında lisanslanmıştır. Dilediğiniz gibi kullanabilir, değiştirebilir ve paylaşabilirsiniz.
+Bu proje **Ticari Olmayan Özel Lisans (Non-Commercial License)** kapsamındadır. 
+- Kişisel, eğitim ve kar amacı gütmeyen amaçlarla tamamen ücretsiz olarak kullanılabilir ve incelenebilir.
+- **Ticari amaçla kullanılması, satılması veya gelir elde etmek amacıyla bir ürün/hizmet haline getirilmesi kesinlikle yasaktır.**
+- Detaylar için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.

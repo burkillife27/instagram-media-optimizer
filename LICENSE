@@ -1,21 +1,25 @@
-MIT License
+TİCARİ OLMAYAN KULLANICI LİSANSI (NON-COMMERCIAL LICENSE)
 
-Copyright (c) 2026 Burak
+Telif Hakkı (c) 2026 Burak. Tüm Hakları Saklıdır.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Bu yazılım ve ilgili dokümantasyon dosyaları ("Yazılım"), aşağıdaki şartlara ve kısıtlamalara tabi olmak kaydıyla kullanıma sunulmuştur:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. KİŞİSEL VE TİCARİ OLMAYAN KULLANIM (İZİN VERİLEN):
+Bu Yazılımın; kişisel, eğitici, akademik, kar amacı gütmeyen veya araştırma amaçlarıyla ücretsiz olarak kullanılmasına, incelenmesine ve test edilmesine izin verilmektedir.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. TİCARİ KULLANIM KISITLAMASI (KESİNLİKLE YASAK OLANLAR):
+Yazılımın tamamının veya herhangi bir parçasının;
+- Doğrudan veya dolaylı olarak satılması, kiralanması veya ücret karşılığı dağıtılması,
+- Ticari bir ürün, hizmet veya ücretli bir abonelik modelinin parçası haline getirilmesi,
+- Ticari gelir, kar veya maddi menfaat elde etmek amacıyla kullanılması,
+telif hakkı sahibinin (Burak) önceden alınmış açık ve yazılı izni olmaksızın KESİNLİKLE YASAKTIR.
+
+3. SORUMLULUK REDDİ (YASAL GÜVENCE):
+BU YAZILIM, TELİF HAKKI SAHİBİ VE KATKIDA BULUNANLAR TARAFINDAN "OLDUĞU GİBİ" (AS IS) SUNULMUŞTUR. YAZILIMIN KULLANIMINDAN VEYA KULLANILAMAMASINDAN DOĞABİLECEK DOĞRUDAN, DOLAYLI VEYA KAZARA OLUŞABİLECEK HİÇBİR ZARAR, KAYIP VEYA VERİ BOZULMASINDAN TELİF HAKKI SAHİBİ SORUMLU TUTULAMAZ.
+
+--------------------------------------------------------------------------------
+ENGLISH SUMMARY:
+Non-Commercial License. Copyright (c) 2026 Burak. All rights reserved.
+Permitted for personal, educational, and non-commercial purposes only.
+Commercial use, resale, or sublicensing for profit is strictly prohibited without explicit prior written permission from the copyright holder.
+Provided "AS IS" without warranty of any kind.
