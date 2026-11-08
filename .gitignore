@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller / Build Artifacts
+build/
+dist/
+*.manifest
+*.spec
+
+# Installer & Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary & Output Media (from local testing)
+*_insta.jpg
+*_insta.png
+*_insta.mp4
+*_insta_*.jpg
+*_insta_*.png
+*_insta_*.mp4
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
